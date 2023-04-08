@@ -10,7 +10,7 @@ Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. Temporal Knowl
 
 This link (https://github.com/Liudaxian1/TrainedModels/tree/main/RETIAGeneral_Models) provides the general training models of the following paper for reproduction:
 
-Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. RETIA: Relation-Entity Twin-Interact Aggregation for Temporal Knowledge Graph Extrapolation.
+Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. RETIA: Relation-Entity Twin-Interact Aggregation for Temporal Knowledge Graph Extrapolation. ICDE 2023.
 
 ## Contacts
 
