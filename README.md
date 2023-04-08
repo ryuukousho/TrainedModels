@@ -6,7 +6,7 @@ This link (https://github.com/Liudaxian1/TrainedModels/tree/main/DHUNET_Models) 
 
 Kangzheng Liu, Feng Zhao, Guandong Xu, Xianzhi Wang, and Hai Jin. Temporal Knowledge Graph Reasoning via Time-Distributed Representation Learning. ICDM 2022.
 
-## RETIA: Relation-Entity Twin-Interact Aggregating for Temporal Knowledge Graph Extrapolating
+## RETIA: Relation-Entity Twin-Interact Aggregation for Temporal Knowledge Graph Extrapolation
 
 This link (https://github.com/Liudaxian1/TrainedModels/tree/main/RETIAGeneral_Models) provides the general training models of the following paper for reproduction:
 
